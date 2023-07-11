@@ -1,0 +1,5 @@
+My motivation to follow The Odin Project curriculum is to learn about web development. 
+I have taken math and computer science courses in university although I find they are not focused on
+teaching the technical aspects of the programming like using git and version control systems. 
+Along with other practical aspects of programming so to fill my gaps in my knowledge I have started this journey 
+and The Odin Project seems to be the best way to go at this moment. 
